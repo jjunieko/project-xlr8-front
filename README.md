@@ -18,9 +18,13 @@ Certifique-se de ter o Node.js instalado em sua máquina. O código a seguir ass
 2. Execute o seguinte comando para criar uma nova aplicação React:
 
 ```bash
-npx create-react-app project
+npx create-react-app project - caso comece projeto do zero
 
 cd project
+
+npm install 
+
+npm start
 
 
 
