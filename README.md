@@ -11,6 +11,9 @@ Certifique-se de ter o Node.js instalado em sua máquina. O código a seguir ass
 - baixar repositorio do github
 -  npm install, na pasta do projeto npm start
 
+#### TEST
+ -npm test
+
 ### Passo a passo
 
 1. Crie um novo diretório para o projeto e navegue até ele no terminal.

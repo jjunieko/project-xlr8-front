@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
 import  { NumericFormat } from 'react-number-format';
-import FormTitle from '../components/Title';
+import FormTitle from '../Title';
 
 const MultiStepForm = () => {
   const [formFields, setFormFields] = useState([
